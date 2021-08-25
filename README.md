@@ -1,4 +1,4 @@
-# day48_Lev2_js-vertiefung_loops
+# day48_Lev3_3_js-vertiefung_loops
 
 **JS Vertiefung CodeFlow Übung lev3_3: complicated loop with input**
 
@@ -13,7 +13,6 @@
 
 ---
 
-_Source:_ https://github.com/Ninni-cfm/day48_Lev2_js-vertiefung_loops
+_Source:_ https://github.com/Ninni-cfm/day48_Lev3_3_js-vertiefung_loops
 
-_Demo:_ https://ninni-cfm.github.io/day48_Lev2_js-vertiefung_loops/
-# day48_Lev3_3_js-vertiefung_loops
+_Demo:_ https://ninni-cfm.github.io/day48_Lev3_3_js-vertiefung_loops/
